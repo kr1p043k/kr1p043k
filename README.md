@@ -7,7 +7,8 @@
 ### Python backend development: FastAPI + SQLAlchemy + Alembic + Pydantic, Celery + Redis queues, PostgreSQL, Docker, tests. Designed and developed architecture of a curriculum to labor market gap analyzer, a chess platform, a game item marketplace, and a wind farm and railway inspection routing system.
 
 ### Stack
-[![Stack](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,react,ts,js,html,css,vite,tailwind,nodejs,express,npm,nginx,linux,githubactions,postman,grafana,prometheus,sqlite,vscode&theme=dark)](https://skillicons.dev)
+[![Stack backend](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,sqlite,nginx,linux,githubactions,postman,grafana,prometheus&theme=dark)](https://skillicons.dev)
+[![Stack frontend](https://skillicons.dev/icons?i=react,ts,js,html,css,vite,tailwind,nodejs,express,electron,npm,vscode&theme=dark)](https://skillicons.dev)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-777777?style=flat)
 ![Swagger](https://img.shields.io/badge/Swagger-777777?style=flat)
 ![Pydantic](https://img.shields.io/badge/Pydantic_V2-3776AB?style=flat)
@@ -16,6 +17,7 @@
 ![SHAP](https://img.shields.io/badge/SHAP-3776AB?style=flat)
 ![Celery](https://img.shields.io/badge/Celery-777777?style=flat)
 ![XGBoost](https://img.shields.io/badge/XGBoost-777777?style=flat)
+![n8n](https://img.shields.io/badge/n8n-777777?style=flat)
 
 ### Projects
 **compare_competencies**
