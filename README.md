@@ -3,8 +3,8 @@
 **Maksim Opik | Python Backend**
 **Максим Опик | Python-разработчик (backend)**
 
-Backend-разработка на Python: FastAPI + SQLAlchemy + Alembic + Pydantic, очереди Celery + Redis, PostgreSQL, Docker, тесты. Проектировал и разрабатывал архитектуру gap-анализа учебных программ и рынка труда, шахматной платформы, маркетплейса игровых предметов, системы планирования обходов ветропарков и ЖД-инфраструктуры.
-Python backend development: FastAPI + SQLAlchemy + Alembic + Pydantic, Celery + Redis queues, PostgreSQL, Docker, tests. Designed and developed architecture of a curriculum to labor market gap analyzer, a chess platform, a game item marketplace, and a wind farm and railway inspection routing system.
+### Backend-разработка на Python: FastAPI + SQLAlchemy + Alembic + Pydantic, очереди Celery + Redis, PostgreSQL, Docker, тесты. Проектировал и разрабатывал архитектуру gap-анализа учебных программ и рынка труда, шахматной платформы, маркетплейса игровых предметов, системы планирования обходов ветропарков и ЖД-инфраструктуры.
+### Python backend development: FastAPI + SQLAlchemy + Alembic + Pydantic, Celery + Redis queues, PostgreSQL, Docker, tests. Designed and developed architecture of a curriculum to labor market gap analyzer, a chess platform, a game item marketplace, and a wind farm and railway inspection routing system.
 
 ### Stack
 [![Stack](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,sqlalchemy,git,react,ts,nginx,linux,githubactions&theme=dark)](https://skillicons.dev)
