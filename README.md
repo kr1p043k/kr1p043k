@@ -7,11 +7,13 @@
 ### Python backend development: FastAPI + SQLAlchemy + Alembic + Pydantic, Celery + Redis queues, PostgreSQL, Docker, tests. Designed and developed architecture of a curriculum to labor market gap analyzer, a chess platform, a game item marketplace, and a wind farm and railway inspection routing system.
 
 ### Stack
-[![Stack](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,sqlalchemy,git,react,ts,nginx,linux,githubactions&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,sqlalchemy,git,react,ts,js,html,css,vite,tailwind,nodejs,express,npm,nginx,linux,githubactions,postman,swagger,grafana,prometheus,sqlite,vscode&theme=dark)](https://skillicons.dev)
 ![Pydantic](https://img.shields.io/badge/Pydantic_V2-3776AB?style=flat)
 ![Alembic](https://img.shields.io/badge/Alembic-777777?style=flat)
 ![mypy](https://img.shields.io/badge/mypy-777777?style=flat)
 ![SHAP](https://img.shields.io/badge/SHAP-3776AB?style=flat)
+![Celery](https://img.shields.io/badge/Celery-777777?style=flat)
+![XGBoost](https://img.shields.io/badge/XGBoost-777777?style=flat)
 
 ### Projects
 **compare_competencies**
